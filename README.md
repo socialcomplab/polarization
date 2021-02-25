@@ -5,8 +5,8 @@
 | Subject Area | **Computer Science** | **Sociology**|
 |--|--|--|
 | University | Graz University of Technology | University of Graz |
-| Institute | Institute of Interactive Systems and Data Science | Institute of Sociology |
-| Project Head | Ass.Prof. Elisabeth Lex | Univ.-Prof. Markus Hadler |
+| Institute | Institute of Interactive Systems <br /> and Data Science | Institute of Sociology |
+| Project Head | Assoc.Prof. Elisabeth Lex | Univ.-Prof. Markus Hadler |
 | Email | elisabeth.lex(at)tugraz.at | markus.hadler(at)uni-graz.at |
 | PhD Student | Markus Reiter-Haas | Beate Klösch |
 | Email | reiter-haas(at)tugraz.at | beate.kloesch(at)uni-graz.at |
