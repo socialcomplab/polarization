@@ -13,7 +13,7 @@
 
 ## Publications
 
-- Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2020). Bridging the Gap of Polarization in Public Opinion on Misinformed Topics.
+- Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2020). **Bridging the Gap of Polarization in Public Opinion on Misinformed Topics.** *Challenging Misinformation: Exploring Limits and Approaches, workshop co-located with Social Informatics'20* ([pdf](publications/2020misinformation_bridging.pdf))
 
 ## Press
 
