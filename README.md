@@ -1,14 +1,16 @@
 ## Route 63 project
 
+This project is part of the Route63 collaboration and funded by both [Graz University of Technology](https://www.tugraz.at/fakultaeten/csbme/studies/route-63/) and [University of Graz](https://sowi.uni-graz.at/de/studium/bachelorstudium/route-63/).
+
 ## Contacts
 
 | Subject Area | **Computer Science** | **Sociology**|
 |--|--|--|
-| University | Graz University of Technology | University of Graz |
-| Institute | Institute of Interactive Systems <br /> and Data Science | Institute of Sociology |
-| Project Head | Assoc.Prof. Elisabeth Lex | Univ.-Prof. Markus Hadler |
+| University | [Graz University of Technology](https://www.tugraz.at/) | [University of Graz](https://www.uni-graz.at/) |
+| Institute | [Institute of Interactive Systems <br /> and Data Science](https://www.tugraz.at/institutes/isds/) | [Institute of Sociology](https://soziologie.uni-graz.at/) |
+| Project Head | [Assoc.Prof. Elisabeth Lex](https://elisabethlex.info/) | [Univ.-Prof. Markus Hadler](https://homepage.uni-graz.at/de/markus.hadler/) |
 | Email | elisabeth.lex(at)tugraz.at | markus.hadler(at)uni-graz.at |
-| PhD Student | Markus Reiter-Haas | Beate Klösch |
+| PhD Student | [Markus Reiter-Haas](https://iseratho.github.io/) | [Beate Klösch](https://online.uni-graz.at/kfu_online/visitenkarte.show_vcard?pPersonenId=8C66685623849754&pPersonenGruppe=3) |
 | Email | reiter-haas(at)tugraz.at | beate.kloesch(at)uni-graz.at |
 
 ## Publications
@@ -30,15 +32,15 @@ Online-Artikel:
 [Corona polarisiert | Ein Drittel glaubt, das Virus sei im Labor entstanden](https://www.kleinezeitung.at/oesterreich/5877626/Corona-polarisiert_Ein-Drittel-glaubt-das-Virus-sei-im-Labor)
 - Kurier  
 [Wie Corona die Gesellschaft entzweit](https://kurier.at/wissen/wissenschaft/umfrage-wie-corona-die-gesellschaft-entzweit/401043145)
--	Salzburger Nachrichten  
+- Salzburger Nachrichten  
 [Grazer Studie: Corona-Debatte polarisiert in der Bevölkerung](https://www.sn.at/panorama/wissen/grazer-studie-corona-debatte-polarisiert-in-der-bevoelkerung-93825787)
--	Science.orf.at  
+- Science.orf.at  
 [Wie stark das Coronavirus polarisiert](https://science.orf.at/stories/3202143/)
--	Steiermark.orf.at  
+- Steiermark.orf.at  
 [Studie: CoV-Maßnahmen scheiden die Geister](https://steiermark.orf.at/stories/3069930/)
--	Uni Graz  
+- Uni Graz  
 [Forschungsergebnisse von Uni Graz und TU Graz zeigen Polarisierung in der Corona-Debatte auf](https://news.uni-graz.at/de/detail/article/verschwoerung-1/)
 
 Print-Artikel:
--	Kleine Zeitung, 06.10.2020, Titelseite und S. 4-5
--	Steierkrone, ca. 1.10.2020. Steiermarkteil
+- Kleine Zeitung, 06.10.2020, Titelseite und S. 4-5
+- Steierkrone, ca. 1.10.2020. Steiermarkteil
