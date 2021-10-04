@@ -1,4 +1,7 @@
-## Route 63 project
+The research aim of this project is to combine two state-of-the-art approaches in measuring opinion - survey research and big data analytics of social media. 
+Its focus lies on the topics of polarization of opinions on social exclusion, climate change, and COVID-19 to identify if and how polarization - a shift towards more extreme positions - occurs within those sources, if and how opinions and respondents differ between sources, and whether the opinions in the sources are aligned.
+
+## Project details
 
 This project is part of the Route63 collaboration and funded by both [Graz University of Technology](https://www.tugraz.at/fakultaeten/csbme/studies/route-63/) and [University of Graz](https://sowi.uni-graz.at/de/studium/bachelorstudium/route-63/).
 
@@ -19,10 +22,10 @@ This project is part of the Route63 collaboration and funded by both [Graz Unive
 
 ## Press
 
-Radiosendungen:
+Radio broadcasts:
 - [Ö1 Journal um acht, 05.10.2020](https://radiothek.orf.at/oe1/20201005/614616/1601878255000)
 
-Online-Artikel:
+Online articles:
 - Ausseer Regionalfernsehen  
 [Verschwörung oder Fakten? Forschungsergebnisse von Uni Graz und TU Graz zeigen Polarisierung in der Corona-Debatte auf](https://www.arf.at/2020/09/21/verschwoerung-oder-fakten-forschungsergebnisse-von-uni-graz-und-tu-graz-zeigen-polarisierung-in-der-corona-debatte-auf/)
 - idw – Informationsdienst Wissenschaft  
@@ -41,6 +44,6 @@ Online-Artikel:
 - Uni Graz  
 [Forschungsergebnisse von Uni Graz und TU Graz zeigen Polarisierung in der Corona-Debatte auf](https://news.uni-graz.at/de/detail/article/verschwoerung-1/)
 
-Print-Artikel:
+Print articles:
 - Kleine Zeitung, 06.10.2020, Titelseite und S. 4-5
 - Steierkrone, ca. 1.10.2020. Steiermarkteil
