@@ -1,4 +1,4 @@
-The research aim of this project is to combine two state-of-the-art approaches in measuring opinion - survey research and big data analytics of social media. 
+The research aim of this project is to combine two state-of-the-art approaches in measuring opinion - survey research and data analytics of social media. 
 Its focus lies on the topics of polarization of opinions on social exclusion, climate change, and COVID-19 to identify if and how polarization - a shift towards more extreme positions - occurs within those sources, if and how opinions and respondents differ between sources, and whether the opinions in the sources are aligned.
 
 ## Project details
