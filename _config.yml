@@ -1,9 +1,9 @@
 title: Polarization in Public Opinion
 description: >- # this means to ignore newlines until "baseurl:"
   Route 63 project
-parent: https://socialcomplab.github.io/
 
 # Build settings
 theme: jekyll-theme-cayman
 github:
   is_project_page: false
+  parent: https://socialcomplab.github.io/
