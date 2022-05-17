@@ -3,7 +3,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Route 63 project
 
 # Build settings
-theme: jekyll-theme-cayman
+remote_theme: socialcomplab/cayman
 github:
   is_project_page: false
   parent: https://socialcomplab.github.io/
