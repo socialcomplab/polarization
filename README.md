@@ -54,3 +54,6 @@ Online articles:
 Print articles:
 - Kleine Zeitung, 06.10.2020, Titelseite und S. 4-5
 - Steierkrone, ca. 1.10.2020. Steiermarkteil
+
+Database entries:
+- [COVID-19 SOCIAL DATA AUSTRIA](https://covid19studien.ihs.ac.at/covid19?searchTitle=polarisierung)
