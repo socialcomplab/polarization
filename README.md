@@ -18,7 +18,7 @@ This project is part of the Route63 collaboration and funded by both [Graz Unive
 
 ## Publications
 
-- Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2022). **Polarization of Opinions on COVID-19 Measures: Integrating Twitter and Survey Data.** *Social Science Computer Review.* ([link](https://doi.org/10.1177/08944393221087662))
+- Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2022). **Polarization of Opinions on COVID-19 Measures: Integrating Twitter and Survey Data.** *Social Science Computer Review.* ([link](https://doi.org/10.1177/08944393221087662),[pdf](publications/2022sscr_polarization.pdf))
 - Hadler, M., Klösch, B., Reiter-Haas, M., & Lex, E. (2022). **Respondents’ opinion on COVID-19 and their willingness to provide their social media info in a survey.** *Paper presented at the Annual Meeting of the American Sociological Association, Los Angeles, August 2022.*
 - Wardana, R., Klösch, B., & Hadler, M. (2022). **Umwelt in der Krise. Einstellungen zu Klimawandel und Umweltbesorgnis sowie Bereitschaft zu umweltbewusstem Verhalten in Krisenzeiten.** *Aschauer, W., Glatz, C., Prandner, D. (eds) Die österreichische Gesellschaft während der Corona-Pandemie. Springer VS, Wiesbaden.* ([link](https://doi.org/10.1007/978-3-658-34491-7_9))
 - Hadler, M., Klösch, B., Lex, E., & Reiter-Haas, M. (2021). **Polarization in public opinion: Combining social surveys and big data analyses of Twitter (SUF Edition)** *AUSSDA, V1, UNF:6:jPjxWXqS6RVg4uYo3Zplcw== [fileUNF]* ([dataset](https://doi.org/10.11587/OVHKTR))
