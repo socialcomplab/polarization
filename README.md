@@ -63,3 +63,6 @@ Print articles:
 
 Database entries:
 - [COVID-19 SOCIAL DATA AUSTRIA](https://covid19studien.ihs.ac.at/covid19?searchTitle=polarisierung)
+
+## Further relevant publications
+
