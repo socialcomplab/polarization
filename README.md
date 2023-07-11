@@ -18,6 +18,7 @@ This project is part of the Route63 collaboration and funded by both [Graz Unive
 
 ## Publications
 
+- Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2023). **Semantic Graphs Reveal the Narrative Framing in News** *NetSci 2023. Presented at Vienna, Austria.* ([abstract](publications/2023netsci_narrative.pdf))
 - Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2023). **Polarized opinions on Covid-19 and environmental policy measures. The role of social media use and personal concerns in German-speaking countries.** *Innovation: The European Journal of Social Science Research, 1-24.* ([link](https://doi.org/10.1080/13511610.2023.2201877))
 - Reiter-Haas, M., Ertl, A., Innerhofer, K., & Lex, E. (2023). **mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few-and Zero-shot Framing Detection.** *arXiv preprint arXiv:2303.09901.* ([link](https://arxiv.org/abs/2303.09901))
 - Reiter-Haas, M. (2023). **Exploration of Framing Biases in Polarized Online Content Consumption.** *Companion Proceedings of the ACM Web Conference 2023, 560–564. Presented at the Austin, TX, USA.* ([link](https://doi.org/10.1145/3543873.3587534))
