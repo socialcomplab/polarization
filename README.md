@@ -18,7 +18,13 @@ This project is part of the Route63 collaboration and funded by both [Graz Unive
 
 ## Publications
 
-- Reiter-Haas, M., Klosch, B., Hadler, M., & Lex, E. (2023). **FrameFinder: Explorative Multi-Perspective Framing Extraction from News Headlines.** *Accepted for publication at CHIIR'24.* ([Preprint](https://arxiv.org/abs/2312.08995))
+- Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2024). **Computational Narrative Framing: Towards Identifying Frames through Contrasting the Evolution of Narrations.** *Presented at the Text2Story’24 Workshop co-located with the ECIR’24.* (to appear)
+- Hadler, M., Ertl, A., Klösch, B., Reiter-Haas, M., & Lex, E. (2024). **The climate gluing protests: Analyzing their development and framing in media since 1986 using sentiment analyses and frame detection models.** *Accepted for presentation at 16th ESA Conference 2024: Tension, Trust and Transformation* ([pdf](publications/2024esa_gluing.pdf))
+- Wardana, R., Klösch, B., Reiter-Haas, M., & Penker, M. (2024) **Media Representation of Environmental Movements: Unveiling Frames in news articles on the Last Generation in Austria.** *Accepted for presentation at 16th ESA Conference 2024: Tension, Trust and Transformation* ([pdf](publications/2024esa_lastgen.pdf))
+
+
+- Reiter-Haas, M., & Lex, E. (2024). **The Framing Loop: Do Users Repeatedly Read Similar Framed News Online?** *In Proceedings of the 7th HUMANIZE Workshop.* ([link](https://ceur-ws.org/Vol-3660/paper18.pdf))
+- Reiter-Haas, M., Klosch, B., Hadler, M., & Lex, E. (2024). **FrameFinder: Explorative Multi-Perspective Framing Extraction from News Headlines.** *In Proceedings of the 2024 Conference on Human Information Interaction and Retrieval (pp. 381-385).* ([link](https://dl.acm.org/doi/pdf/10.1145/3627508.3638308), [preprint](https://arxiv.org/abs/2312.08995))
 - Reiter-Haas, M., Klösch, B., Hadler, M., & Lex, E. (2023). **Semantic Graphs Reveal the Narrative Framing in News** *NetSci 2023. Presented at Vienna, Austria.* ([abstract](publications/2023netsci_narrative.pdf))
 - Klösch, B., Hadler, M., Reiter-Haas, M., & Lex, E. (2023). **Polarized opinions on Covid-19 and environmental policy measures. The role of social media use and personal concerns in German-speaking countries.** *Innovation: The European Journal of Social Science Research, 1-24.* ([link](https://doi.org/10.1080/13511610.2023.2201877))
 - Reiter-Haas, M., Ertl, A., Innerhofer, K., & Lex, E. (2023). **mCPT at SemEval-2023 Task 3: Multilingual Label-Aware Contrastive Pre-Training of Transformers for Few-and Zero-shot Framing Detection.** *arXiv preprint arXiv:2303.09901.* ([link](https://arxiv.org/abs/2303.09901))
